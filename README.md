@@ -37,6 +37,10 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riteshakya037&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshakya037&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/riteshakya037/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshakya037&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/riteshakya037/github-readme-stats#gh-light-mode-only)
+
 ### 🛠 &nbsp;Tech Stack
 
 #### 📚 Frameworks, Platforms and Libraries
