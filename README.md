@@ -8,23 +8,34 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 **Beyond Code:**
 
 🌱 &nbsp; Actively thinking about the future and exploring possibilities
+
 💻 &nbsp; Lead Software Engineer **@arcab** #MoveTogether (Changing the way we commute)
+
 🤝 &nbsp; Technical Partner **@nube-io** (Improving the Industrial IOT scenario)
+
 🚀 &nbsp; Co-Founder **@cerulearn** (Working on EdTech solutions for Nepal)
+
 🛠️ &nbsp; Co-Founder **@codeduolabs** (Providing tech talents globally)
+
 🎯 &nbsp; Living with a goal to completely understand the universe
+
 📚 &nbsp; Current perusal - Dune by Frank Herbert
+
 ⌚ &nbsp; Watch fanatic and Haute Horology enthusiast
+
 🇳🇵 &nbsp; Currently based out of Nepal, Connected Globally
+
 
 ![version :01.03.2024](https://img.shields.io/badge/version-01.03.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=riteshakya037&color=red)&nbsp;
 [![GitHub riteshakya037](https://img.shields.io/github/followers/riteshakya037?label=follow&style=social)](https://github.com/riteshakya037)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshakya037&show_icons=true&locale=en" alt="RaiBnod"/></p>
+[![Ritesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=riteshakya037&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Ritesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=riteshakya037&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshakya037&theme=tokyonight" alt="mystreak"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riteshakya037&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ### 🛠 &nbsp;Tech Stack
 
