@@ -31,15 +31,16 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 [![GitHub riteshakya037](https://img.shields.io/github/followers/riteshakya037?label=follow&style=social)](https://github.com/riteshakya037)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-[![Ritesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=riteshakya037&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Ritesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=riteshakya037&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/riteshakya037/github-readme-stats">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riteshakya037&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/riteshakya037">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshakya037&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riteshakya037&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshakya037&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/riteshakya037/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshakya037&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/riteshakya037/github-readme-stats#gh-light-mode-only)
 
 ### 🛠 &nbsp;Tech Stack
 
