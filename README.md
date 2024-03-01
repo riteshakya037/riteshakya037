@@ -1,7 +1,7 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+# <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for building elegant solutions to complex problems. I relish the challenge of architecting and building robust, scalable software systems. I'm a lifelong learner, constantly seeking to expand my knowledge and stay up-to-date with the latest advancements in technology.
 
@@ -42,9 +42,9 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riteshakya037&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
-#### 📚 Frameworks, Platforms and Libraries
+### 📚 Frameworks, Platforms and Libraries
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -61,7 +61,7 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-#### 📋 Languages
+### 📋 Languages
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -75,14 +75,14 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### 🖥️ ML/DL
+### 🖥️ ML/DL
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-#### 💻 IDEs/Editors
+### 💻 IDEs/Editors
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -91,7 +91,7 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-### 📫 &nbsp; How to reach me:
+## 📫 &nbsp; How to reach me:
 
 I'm always eager to collaborate with fellow tech enthusiasts and take on new challenges. Feel free to reach out if you have an interesting project in mind, or simply want to connect and discuss the ever-changing world of technology.
 
