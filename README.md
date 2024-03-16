@@ -9,17 +9,17 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 
 🌱 &nbsp; Actively thinking about the future and exploring possibilities
 
-💻 &nbsp; Lead Software Engineer **@arcab** #MoveTogether (Changing the way we commute)
+💻 &nbsp; Lead Software Engineer **[@arcab](https://www.ar.cab/)** #MoveTogether (Changing the way we commute)
 
-🤝 &nbsp; Technical Partner **@nube-io** (Improving the Industrial IOT scenario)
+🤝 &nbsp; Technical Partner **[@nube-io](https://nube-io.com/)** (Improving the Industrial IOT scenario)
 
-🚀 &nbsp; Co-Founder **@cerulearn** (Working on EdTech solutions for Nepal)
+🚀 &nbsp; Co-Founder **[@cerulearn](https://ceruai.com/)** (Working on EdTech solutions for Nepal)
 
 🛠️ &nbsp; Co-Founder **@codeduolabs** (Providing tech talents globally)
 
 🎯 &nbsp; Living with a goal to completely understand the universe
 
-📚 &nbsp; Current perusal - Dune by Frank Herbert
+📚 &nbsp; Current perusal - Pragmatic Programmer by Andy Hunt
 
 ⌚ &nbsp; Watch fanatic and Haute Horology enthusiast
 
