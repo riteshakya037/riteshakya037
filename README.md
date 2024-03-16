@@ -15,7 +15,7 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 
 🚀 &nbsp; Co-Founder **[@cerulearn](https://ceruai.com/)** (Working on EdTech solutions for Nepal)
 
-🛠️ &nbsp; Co-Founder **@codeduolabs** (Providing tech talents globally)
+🛠️ &nbsp; Co-Founder **[@codeduolabs](https://www.upwork.com/agencies/1343552335043305472/)** (Providing tech talents globally)
 
 🎯 &nbsp; Living with a goal to completely understand the universe
 
