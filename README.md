@@ -31,7 +31,7 @@ Hi there! I'm **Ritesh Shakya**, a passionate software engineer with a knack for
 [![GitHub riteshakya037](https://img.shields.io/github/followers/riteshakya037?label=follow&style=social)](https://github.com/riteshakya037)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-<a href="https://github.com/riteshakya037/github-readme-stats">
+<a href="https://github.com/riteshakya037">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riteshakya037&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/riteshakya037">
